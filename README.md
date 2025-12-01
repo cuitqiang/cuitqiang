@@ -2,40 +2,64 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=全栈开发工程师;Rust+%2F+Python+%2F+C%2B%2B;音视频流媒体技术专家;开源爱好者)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=全栈开发工程师;PHP+%2F+Python+%2F+C%2FC%2B%2B%2FC%23;物联网+%2F+安防监控+%2F+大数据;展厅互动+%2F+Unity+交互程序;开源爱好者+%7C+辰粤科技)
 
 </div>
 
 ## 🏢 关于我
 
 - 💼 就职于 **辰粤科技** (Chenyue Technology)
-- 🔭 专注于 **音视频处理** 和 **流媒体技术**
-- 🌱 热衷于 **Rust** 系统编程和高性能应用开发
-- 💡 擅长 **FFmpeg**、**RTSP/RTMP 流媒体**、**桌面应用开发**
-- 🎯 目标：构建高性能、易用的开源工具
+- 🔭 全栈开发工程师，专注于 **物联网**、**音视频**、**大数据** 领域
+- 🌐 擅长 **PHP 互联网应用** 和 **MQTT 物联网解决方案**
+- 📹 深耕 **安防监控系统** 和 **流媒体技术**
+- 🎨 电网公司 **展厅互动大屏**、**互动投影程序** 定制专家
+- 🔌 熟悉 **单片机开发** 和嵌入式系统
+- 🎯 目标：用技术连接物理世界与数字世界
 
 ## 🛠️ 技术栈
 
-### 编程语言
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+### 后端开发
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### 音视频技术
+### 物联网 & 嵌入式
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### 音视频 & 监控
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 游戏引擎 & 交互
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### 大数据
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 工具 & 平台
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 开源项目
+## 🚀 项目案例
 
-### [🎥 Rust Screen Recorder FFmpeg](https://github.com/cuitqiang/rust-screen-recorder-ffmpeg)
+### 🏢 企业级项目
+- **电网公司展厅互动系统** - Unity + 大屏联动 + 投影交互
+- **安防监控平台** - RTSP/RTMP 流媒体 + 物联网集成
+- **MQTT 物联网解决方案** - 设备管理 + 数据采集 + 实时监控
+- **PHP 互联网应用** - 高并发 Web 系统 + API 服务
+
+### 💻 开源项目
+
+#### [🎥 Rust Screen Recorder FFmpeg](https://github.com/cuitqiang/rust-screen-recorder-ffmpeg)
 高性能屏幕录制推流工具
 - ⚡ 基于 Windows Desktop Duplication API，零性能损耗
 - 🌐 支持 RTSP/RTMP 实时推流
@@ -66,18 +90,23 @@
 
 ## 💡 专业领域
 
-```rust
-let expertise = vec![
-    "🎬 音视频编解码 (H.264/H.265/VP9)",
-    "📡 流媒体协议 (RTSP/RTMP/HLS/WebRTC)",
-    "🖥️ 桌面应用开发 (Windows/Linux/macOS)",
-    "⚡ 高性能系统编程 (Rust/C++)",
+```php
+<?php
+$expertise = [
+    "🌐 PHP 互联网应用开发",
+    "🔌 MQTT 物联网解决方案",
+    "📹 安防监控系统集成",
+    "🎨 展厅互动大屏 & 互动投影定制",
+    "🎬 音视频编解码 (H.264/H.265/RTSP/RTMP)",
+    "🎮 Unity 交互程序开发",
+    "🔧 单片机 & 嵌入式开发",
+    "📊 大数据处理与分析",
+    "⚡ C/C++/C# 系统编程",
     "🤖 自动化工具开发",
-    "🔧 FFmpeg 深度定制",
 ];
 
-for skill in expertise {
-    println!("✓ {}", skill);
+foreach ($expertise as $skill) {
+    echo "✓ $skill\n";
 }
 ```
 
@@ -89,11 +118,13 @@ for skill in expertise {
 
 ## 🎯 2025 年目标
 
+- [ ] 🌐 开源 MQTT 物联网管理平台
+- [ ] 📹 完善安防监控开源组件
+- [ ] 🎨 分享展厅互动技术方案
 - [ ] 🦀 深入 Rust 生态系统，贡献更多开源项目
-- [ ] 🎥 开发完整的音视频处理工具链
-- [ ] 📚 分享技术博客和开源教程
-- [ ] 🌟 获得 100+ GitHub Stars
-- [ ] 🤝 参与国际开源社区贡献
+- [ ] 📚 输出技术博客和实战教程
+- [ ] 🌟 获得 500+ GitHub Stars
+- [ ] 🤝 参与开源社区，帮助更多开发者
 
 ---
 
